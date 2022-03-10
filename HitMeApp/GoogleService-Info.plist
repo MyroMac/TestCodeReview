@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>645960813347-rlp6ettgfjj34fe1ufvif7ka292b0ddi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.645960813347-rlp6ettgfjj34fe1ufvif7ka292b0ddi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCXA6KPBjt3cyebuzwGKgazcr3wIElTv6Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>645960813347</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hitmeapp.hitmeapp</string>
+	<key>PROJECT_ID</key>
+	<string>hitmeapp-tta</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hitmeapp-tta.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:645960813347:ios:6cf5509a7d5012abe19a96</string>
+</dict>
+</plist>

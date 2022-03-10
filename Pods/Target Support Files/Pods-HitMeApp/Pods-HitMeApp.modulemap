@@ -1,0 +1,6 @@
+framework module Pods_HitMeApp {
+  umbrella header "Pods-HitMeApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
